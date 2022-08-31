@@ -5,8 +5,6 @@
 
 1. ##### 微信：lijiuhui1073
 
-   <img src="/Users/lijiuhui/Desktop/picture/截屏2022-08-31 19.36.18.jpg" style="zoom:33%;" />
-
 2. ##### 邮箱：lijiuhui2020@163.com 
 
 3. ##### 抖音：JiuhuiLi2020
