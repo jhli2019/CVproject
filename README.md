@@ -12,6 +12,7 @@
 #### 二  项目清单 
 
 1. 项目一：SVM实现车牌自动检测并批量导入Excel文件
+https://github.com/jhli2019/CVproject/tree/main/code/CVproject_1_License_recognition
 2. 项目二：yolov5+deepsort实现车流人流检测
 3. 项目三：yolov5+deepsort实现人群密度分析
 4. 项目四： 
