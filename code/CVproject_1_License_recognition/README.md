@@ -11,5 +11,7 @@
 - PyQt5：5.11.3
 - opencv-python：4.2.0
 ----
+训练
+解压Train.zip文件放到根目录下
 运行
 python UI_main.py
