@@ -10,3 +10,6 @@
 - Python 3.7
 - PyQt5：5.11.3
 - opencv-python：4.2.0
+----
+运行
+python UI_main.py
